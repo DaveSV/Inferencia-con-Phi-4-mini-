@@ -1,14 +1,4 @@
-# GitHub Models - Limited Public Beta
 
-Welcome to your shiny new Codespace for interacting with GitHub Models! We've got everything fired up and ready for you to explore AI Models hosted on Azure AI.
-
-The git history is a nearly-blank canvas; there's a single initial commit with the contents you're seeing right now - where you go from here is up to you!
-
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. When you’re ready, you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring and have no further need for this code, you can simply delete your codespace and it's gone forever.
-
-For more information about the Models available on GitHub Models, check out the [Marketplace](https://github.com/marketplace/models).
-
-When bringing your application to scale, you must provision resources and authenticate from Azure, not GitHub. Learn more about deploying models to meet your use case with Azure AI.
 
 ## Getting Started
 
@@ -22,12 +12,19 @@ If you are already familiar with the GitHub Models service, you can start by run
 
 - [Python](cookbooks/python/README.md)
 
-## Disclosures
+![Captura de pantalla 2025-06-16 172556](https://github.com/user-attachments/assets/8c204a6f-e3d6-44c3-ba05-88a5c7006a35)
+![Captura de pantalla 2025-06-16 172556](https://github.com/user-attachments/assets/8c204a6f-e3d6-44c3-ba05-88a5c7006a35)
+![image](https://github.com/user-attachments/assets/4ce7e340-eab9-4bb9-968b-677fa5502d1a)
+![image](https://github.com/user-attachments/assets/4ce7e340-eab9-4bb9-968b-677fa5502d1a)
 
-Remember when interacting with a model you are experimenting with AI, so content mistakes are possible.  
 
-The feature is subject to various limits (including requests per minute, requests per day, tokens per request, and concurrent requests) and is not designed for production use cases.
+## Links
 
-GitHub Models uses [Azure AI Content Safety](https://azure.microsoft.com/en-us/products/ai-services/ai-content-safety). These filters cannot be turned off as part of the GitHub Models experience. If you decide to employ models through a paid service, please configure your content filters to meet your requirements.
+Phi-4-mini-reasoning
+Lightweight math reasoning model optimized for multi-step problem solving 
+https://github.com/marketplace/models/azureml/Phi-4-mini-reasoning/playground
 
-This service is under GitHub’s [Pre-release Terms](https://docs.github.com/en/site-policy/github-terms/github-pre-release-license-terms). Your use of the GitHub Models is subject to the following [Product Terms](https://www.microsoft.com/licensing/terms/productoffering/MicrosoftAzure/allprograms) and [Privacy Statement](https://www.microsoft.com/licensing/terms/product/PrivacyandSecurityTerms/MCA). Content within this Repository may be subject to additional license terms.
+## Read 
+
+Welcome to the new Phi-4 models - Microsoft Phi-4-mini & Phi-4-multimodal
+https://techcommunity.microsoft.com/blog/educatordeveloperblog/welcome-to-the-new-phi-4-models---microsoft-phi-4-mini--phi-4-multimodal/4386037
