@@ -19,7 +19,7 @@ endpoint = "https://models.github.ai/inference/"
 # Mistral AI: Mistral-large, Mistral-large-2407, Mistral-Nemo, Mistral-small
 # Azure OpenAI: gpt-4o-mini, gpt-4o
 # Microsoft: Phi-3-medium-128k-instruct, Phi-3-medium-4k-instruct, Phi-3-mini-128k-instruct, Phi-3-mini-4k-instruct, Phi-3-small-128k-instruct, Phi-3-small-8k-instruct
-model_name = "openai/gpt-4o-mini"
+model_name = "microsoft/Phi-3-medium-128k-instruct"
 
 client = ChatCompletionsClient(
     endpoint=endpoint,
@@ -29,7 +29,7 @@ client = ChatCompletionsClient(
 response = client.complete(
     messages=[
         SystemMessage(content="You are a helpful assistant."),
-        UserMessage(content="What is the capital of France?"),
+        UserMessage(content="Tell me your model name and capabilities"),
     ],
     model=model_name,
     # Optional parameters
