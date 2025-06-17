@@ -12,9 +12,7 @@ If you are already familiar with the GitHub Models service, you can start by run
 
 - [Python](cookbooks/python/README.md)
 
-![Captura de pantalla 2025-06-16 172556](https://github.com/user-attachments/assets/8c204a6f-e3d6-44c3-ba05-88a5c7006a35)
-![Captura de pantalla 2025-06-16 172556](https://github.com/user-attachments/assets/8c204a6f-e3d6-44c3-ba05-88a5c7006a35)
-![image](https://github.com/user-attachments/assets/4ce7e340-eab9-4bb9-968b-677fa5502d1a)
+
 ![image](https://github.com/user-attachments/assets/4ce7e340-eab9-4bb9-968b-677fa5502d1a)
 
 
